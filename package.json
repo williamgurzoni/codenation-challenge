@@ -1,0 +1,32 @@
+{
+  "name": "challenge_codenation",
+  "version": "1.0.0",
+  "description": "Codenation Challenge - React Online 1",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamgurzoni/codenation-challenge.git"
+  },
+  "keywords": [
+    "Codenation",
+    "Challenge"
+  ],
+  "author": "William Gurzoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamgurzoni/codenation-challenge/issues"
+  },
+  "homepage": "https://github.com/williamgurzoni/codenation-challenge#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "js-sha1": "^0.6.0",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7"
+  }
+}
